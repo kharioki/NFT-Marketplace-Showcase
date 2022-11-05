@@ -1,6 +1,5 @@
 {
   "build": {
-    "command": "npm install && npm run build",
-    "publicDir": "public"
+    "command": "npm install && npm run build"
   }
 }
